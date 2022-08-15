@@ -1,0 +1,15 @@
+{
+    "vehicle":  {
+        "kw": "1200",
+        "date": "08/11/2021",
+        "list_price": "30000",
+        "license_plate": "PGH2344",
+        "annual_mileage": "1000"
+    },
+
+    "insurance": {
+        "first_name": "Joao ", 
+         "last_name": "Felix",
+        "birthdate": "08/23/1985"
+    }
+}
